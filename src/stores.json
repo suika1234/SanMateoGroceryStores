@@ -1,0 +1,264 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -122.3218,
+                   37.5644
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "cafe",
+                "hours": "9am - 7pm",
+                "seniorhours": "7am - 8am",
+                "name": "Draeger's",
+                "address": "222 E 4th Ave, San Mateo, CA 94401",
+                "phone": "(650) 685-3700",
+                "website": "https://www.draegers.com/",
+                "description": "No reusable bags, limit purchases of certain products to two of a kind.",
+                "storeid": "01"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.304702,
+                  37.5545382
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+              "category": "cafe",
+              "hours": "9am - 7pm",
+              "seniorhours": "7am - 8am",
+              "name": "Trader Joe's",
+              "address": "1820-22 S Grant St, San Mateo, CA 94402",
+              "phone": "(650) 570-6140",
+              "website": "https://locations.traderjoes.com/ca/san-mateo/67/",
+              "description": "Closed Sunday 4/12",
+              "storeid": "02"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.3237,
+                  37.5635
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+              "category": "cafe",
+              "hours": "Reopens April 4",
+              "seniorhours": "N/A",
+              "name": "Suruki Market",
+              "address": "71 E 4th Ave, San Mateo, CA 94401",
+              "phone": "(650) 347-5288",
+              "website": "https://www.surukisupermarket.com/",
+              "description": "N/A",
+              "storeid": "03"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -122.319762,
+                  37.5481336
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+              "category": "cafe",
+              "hours": "11 am to 6 pm",
+              "seniorhours": "10:30 am to 11 am",
+              "name": "Nijiya Market",
+              "address": "1956 S El Camino Real, San Mateo, CA 94403",
+              "phone": "(650) 212-7398",
+              "website": "http://www.nijiya.com/store-location",
+              "description": "",
+              "storeid": "04"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.3273,
+                  37.5337
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+              "category": "cafe",
+              "hours": "7 am to 9 pm",
+              "seniorhours": "Priority Senior Checkout 7 am to 8 am",
+              "name": "Piazza's Fine Foods",
+              "address": "1206 W Hillsdale Blvd, San Mateo, CA 94403",
+              "phone": "(650) 341-9496",
+              "website": "https://piazzaslovesfood.com/",
+              "description": "Limiting amount of people who shop in the store at the time.",
+              "storeid": "05"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.2920,
+                  37.5442
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+              "category": "cafe",
+              "hours": "9 am to 8 pm",
+              "seniorhours": "8 am to 9 am",
+              "name": "Whole Foods",
+              "address": "1010 Park Pl, San Mateo, CA 94403",
+              "phone": "(650) 358-6900",
+              "website": "https://www.wholefoodsmarket.com/stores/sanmateo",
+              "description": "Limiting the purchase quantities of high-demand items. No reusable bags.",
+              "storeid": "06"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.3122506,
+                  37.5413484
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+              "category": "cafe",
+              "hours": "6 am to 10 pm",
+              "seniorhours": "6 am to 9 am on Tuesday and Thursday",
+              "name": "Safeway",
+              "address": "1655 El Camino Real, San Mateo, CA 94402",
+              "phone": "(650) 358-6900",
+              "website": "https://www.safeway.com/faq/covid-19-faq.html",
+              "description": "No reusable bags.",
+              "storeid": "07"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.2938,
+                    37.5549
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "cafe",
+                "hours": "6am to 10 pm",
+                "seniorhours": "6 am to 8 am on Tuesday and Thursday",
+                "name": "Smart and Final",
+                "address": "1840 S Norfolk St, San Mateo, CA 94403",
+                "phone": "(650) 358-6900",
+                "website": "https://www.smartandfinal.com/stores/?coordinates=37.555253000000015,-122.29313&zoom=15",
+                "description": "No reusable bags.",
+                "storeid": "08"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.3276486,
+                    37.5687551
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "cafe",
+                "hours": "7:30 am to 8 pm",
+                "seniorhours": "N/A",
+                "name": "Mi Rancho Market",
+                "address": "80 N B St, San Mateo, CA 94401",
+                "phone": "(650) 347-7052",
+                "website": "http://miranchosupermarket.biz/",
+                "description": "N/A",
+                "storeid": "09"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.3242,
+                    37.5627
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "cafe",
+                "hours": "8am to 8 pm",
+                "seniorhours": "7am to 8am",
+                "name": "Dean's Produce",
+                "address": "44 E 4th Ave, San Mateo, CA 94401",
+                "phone": "(650) 340-7000",
+                "website": "https://www.deansproducemarkets.com/deans-produce-san-mateo",
+                "description": "No reusable bags.",
+                "storeid": "10"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.2924665,
+                    37.5291667
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "cafe",
+                "hours": "8am to 8 pm",
+                "seniorhours": "7am to 8am",
+                "name": "Mollie Stone's",
+                "address": "49 42nd Ave, San Mateo, CA 94403",
+                "phone": "(650) 372-2828",
+                "website": "https://www.molliestones.com/",
+                "description": "Can use reusable bags if you bag own groceries.",
+                "storeid": "11"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.3385,
+                    37.5199
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "cafe",
+                "hours": "8am to 8 pm",
+                "seniorhours": "N/A",
+                "name": "Crystal Springs Produce",
+                "address": "770 Polhemus Rd, San Mateo, CA 94402",
+                "phone": "(650) 393-5146",
+                "website": "http://www.crystalspringsproduce.com/",
+                "description": "N/A",
+                "storeid": "12"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -122.2743,
+                    37.5618
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "cafe",
+                "hours": "M-F 10:00am - 6:30pm, Sat. 9:30am - 6:00pm, Sun. 10:00am - 6:00pm",
+                "seniorhours": "8am to 9am",
+                "name": "Costco Wholesale",
+                "address": "1001 Metro Center Blvd, Foster City, CA 94404",
+                "phone": "(650) 286-0739",
+                "website": "https://www.costco.com/warehouse-locations/foster-city-ca-147.html",
+                "description": "No more than two people to enter the warehouse with each membership card.",
+                "storeid": "13"
+            }
+        }
+    ]
+}
