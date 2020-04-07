@@ -1,264 +1,2000 @@
 {
-    "type": "FeatureCollection",
-    "features": [{
-            "geometry": {
-                "type": "Point",
-                "coordinates": [ -122.3218,
-                   37.5644
-                ]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "cafe",
-                "hours": "9am - 7pm",
-                "seniorhours": "7am - 8am",
-                "name": "Draeger's",
-                "address": "222 E 4th Ave, San Mateo, CA 94401",
-                "phone": "(650) 685-3700",
-                "website": "https://www.draegers.com/",
-                "description": "No reusable bags, limit purchases of certain products to two of a kind.",
-                "storeid": "01"
-            }
-        },
-        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.304702,
-                  37.5545382
-                ]
-            },
-            "type": "Feature",
-            "properties": {
-              "category": "cafe",
-              "hours": "9am - 7pm",
-              "seniorhours": "7am - 8am",
-              "name": "Trader Joe's",
-              "address": "1820-22 S Grant St, San Mateo, CA 94402",
-              "phone": "(650) 570-6140",
-              "website": "https://locations.traderjoes.com/ca/san-mateo/67/",
-              "description": "Closed Sunday 4/12",
-              "storeid": "02"
-            }
-        },
-        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.3237,
-                  37.5635
-                ]
-            },
-            "type": "Feature",
-            "properties": {
-              "category": "cafe",
-              "hours": "Reopens April 4",
-              "seniorhours": "N/A",
-              "name": "Suruki Market",
-              "address": "71 E 4th Ave, San Mateo, CA 94401",
-              "phone": "(650) 347-5288",
-              "website": "https://www.surukisupermarket.com/",
-              "description": "N/A",
-              "storeid": "03"
-            }
-        },
-        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [ -122.319762,
-                  37.5481336
-                ]
-            },
-            "type": "Feature",
-            "properties": {
-              "category": "cafe",
-              "hours": "11 am to 6 pm",
-              "seniorhours": "10:30 am to 11 am",
-              "name": "Nijiya Market",
-              "address": "1956 S El Camino Real, San Mateo, CA 94403",
-              "phone": "(650) 212-7398",
-              "website": "http://www.nijiya.com/store-location",
-              "description": "",
-              "storeid": "04"
-            }
-        },
-        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.3273,
-                  37.5337
-                ]
-            },
-            "type": "Feature",
-            "properties": {
-              "category": "cafe",
-              "hours": "7 am to 9 pm",
-              "seniorhours": "Priority Senior Checkout 7 am to 8 am",
-              "name": "Piazza's Fine Foods",
-              "address": "1206 W Hillsdale Blvd, San Mateo, CA 94403",
-              "phone": "(650) 341-9496",
-              "website": "https://piazzaslovesfood.com/",
-              "description": "Limiting amount of people who shop in the store at the time.",
-              "storeid": "05"
-            }
-        },
-        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.2920,
-                  37.5442
-                ]
-            },
-            "type": "Feature",
-            "properties": {
-              "category": "cafe",
-              "hours": "9 am to 8 pm",
-              "seniorhours": "8 am to 9 am",
-              "name": "Whole Foods",
-              "address": "1010 Park Pl, San Mateo, CA 94403",
-              "phone": "(650) 358-6900",
-              "website": "https://www.wholefoodsmarket.com/stores/sanmateo",
-              "description": "Limiting the purchase quantities of high-demand items. No reusable bags.",
-              "storeid": "06"
-            }
-        },
-        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.3122506,
-                  37.5413484
-                ]
-            },
-            "type": "Feature",
-            "properties": {
-              "category": "cafe",
-              "hours": "6 am to 10 pm",
-              "seniorhours": "6 am to 9 am on Tuesday and Thursday",
-              "name": "Safeway",
-              "address": "1655 El Camino Real, San Mateo, CA 94402",
-              "phone": "(650) 358-6900",
-              "website": "https://www.safeway.com/faq/covid-19-faq.html",
-              "description": "No reusable bags.",
-              "storeid": "07"
-            }
-        },
-        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.2938,
-                    37.5549
-                ]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "cafe",
-                "hours": "6am to 10 pm",
-                "seniorhours": "6 am to 8 am on Tuesday and Thursday",
-                "name": "Smart and Final",
-                "address": "1840 S Norfolk St, San Mateo, CA 94403",
-                "phone": "(650) 358-6900",
-                "website": "https://www.smartandfinal.com/stores/?coordinates=37.555253000000015,-122.29313&zoom=15",
-                "description": "No reusable bags.",
-                "storeid": "08"
-            }
-        },
-        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.3276486,
-                    37.5687551
-                ]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "cafe",
-                "hours": "7:30 am to 8 pm",
-                "seniorhours": "N/A",
-                "name": "Mi Rancho Market",
-                "address": "80 N B St, San Mateo, CA 94401",
-                "phone": "(650) 347-7052",
-                "website": "http://miranchosupermarket.biz/",
-                "description": "N/A",
-                "storeid": "09"
-            }
-        },
-        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.3242,
-                    37.5627
-                ]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "cafe",
-                "hours": "8am to 8 pm",
-                "seniorhours": "7am to 8am",
-                "name": "Dean's Produce",
-                "address": "44 E 4th Ave, San Mateo, CA 94401",
-                "phone": "(650) 340-7000",
-                "website": "https://www.deansproducemarkets.com/deans-produce-san-mateo",
-                "description": "No reusable bags.",
-                "storeid": "10"
-            }
-        },
-        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.2924665,
-                    37.5291667
-                ]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "cafe",
-                "hours": "8am to 8 pm",
-                "seniorhours": "7am to 8am",
-                "name": "Mollie Stone's",
-                "address": "49 42nd Ave, San Mateo, CA 94403",
-                "phone": "(650) 372-2828",
-                "website": "https://www.molliestones.com/",
-                "description": "Can use reusable bags if you bag own groceries.",
-                "storeid": "11"
-            }
-        },
-        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.3385,
-                    37.5199
-                ]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "cafe",
-                "hours": "8am to 8 pm",
-                "seniorhours": "N/A",
-                "name": "Crystal Springs Produce",
-                "address": "770 Polhemus Rd, San Mateo, CA 94402",
-                "phone": "(650) 393-5146",
-                "website": "http://www.crystalspringsproduce.com/",
-                "description": "N/A",
-                "storeid": "12"
-            }
-        },
-        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [ -122.2743,
-                    37.5618
-                ]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "cafe",
-                "hours": "M-F 10:00am - 6:30pm, Sat. 9:30am - 6:00pm, Sun. 10:00am - 6:00pm",
-                "seniorhours": "8am to 9am",
-                "name": "Costco Wholesale",
-                "address": "1001 Metro Center Blvd, Foster City, CA 94404",
-                "phone": "(650) 286-0739",
-                "website": "https://www.costco.com/warehouse-locations/foster-city-ca-147.html",
-                "description": "No more than two people to enter the warehouse with each membership card.",
-                "storeid": "13"
-            }
-        }
-    ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3218,
+          37.5644
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "9am to 7pm",
+        "seniorhours": "7am to 8am",
+        "name": "Draeger's San Mateo",
+        "address": "222 E 4th Ave, San Mateo, CA 94401",
+        "phone": "(650) 685-3700",
+        "website": "https://www.draegers.com/",
+        "description": "No reusable bags, limit purchases of certain products to two of a kind.",
+        "storeid": 1
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3208,
+          37.567
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "11am to 3pm",
+        "seniorhours": "",
+        "name": "Takahashi Market",
+        "address": "221 S Claremont St, San Mateo, CA 94401",
+        "phone": "(650) 343-0394",
+        "website": "https://takahashimarket.com/",
+        "description": "",
+        "storeid": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3237,
+          37.5635
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "Reopen April 16",
+        "seniorhours": "",
+        "name": "Suruki Market",
+        "address": "71 E 4th Ave, San Mateo, CA 94401",
+        "phone": "(650) 347-5288",
+        "website": "https://www.surukisupermarket.com/",
+        "description": "",
+        "storeid": 3
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.319762,
+          37.5481336
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "11am to 6pm",
+        "seniorhours": "10:30pm to 11pm",
+        "name": "Nijiya Market San Mateo",
+        "address": "1956 S El Camino Real, San Mateo, CA 94403",
+        "phone": "(650) 212-7398",
+        "website": "http://www.nijiya.com/store-location",
+        "description": "",
+        "storeid": 4
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3273,
+          37.5337
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "7am to 9pm",
+        "seniorhours": "7am to 8am",
+        "name": "Piazza's",
+        "address": "1206 W Hillsdale Blvd, San Mateo, CA 94403",
+        "phone": "(650) 341-9496",
+        "website": "https://piazzaslovesfood.com/",
+        "description": "",
+        "storeid": 5
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.292,
+          37.5442
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "9am to 8pm",
+        "seniorhours": "8am to 9am",
+        "name": "Whole Foods",
+        "address": "1010 Park Pl, San Mateo, CA 94403",
+        "phone": "(650) 358-6900",
+        "website": "https://www.wholefoodsmarket.com/stores/sanmateo",
+        "description": "",
+        "storeid": 6
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3122506,
+          37.5413484
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "6am to 10pm",
+        "seniorhours": "6am to 9am on Tues and Thurs",
+        "name": "Safeway",
+        "address": "1655 El Camino Real, San Mateo, CA 94402",
+        "phone": "(650) 341-0374",
+        "website": "https://local.safeway.com/safeway/ca/san-mateo/1655-el-camino-real.html",
+        "description": "",
+        "storeid": 7
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2938,
+          37.5549
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "6am to 10pm",
+        "seniorhours": "6am to 8am on Tues and Thurs",
+        "name": "Smart and Final",
+        "address": "1840 S Norfolk St, San Mateo, CA 94403",
+        "phone": "(650) 345-1335",
+        "website": "https://www.smartandfinal.com/stores/?coordinates=37.555253000000015,-122.29313&zoom=15",
+        "description": "",
+        "storeid": 8
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3276486,
+          37.5687551
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "7:30am to 8pm",
+        "seniorhours": "",
+        "name": "Mi Rancho",
+        "address": "80 N B St, San Mateo, CA 94401",
+        "phone": "(650) 347-7052",
+        "website": "http://miranchosupermarket.biz/",
+        "description": "",
+        "storeid": 9
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3242,
+          37.5627
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "7am to 8pm",
+        "seniorhours": "7am to 8am",
+        "name": "Dean's Produce",
+        "address": "44 E 4th Ave, San Mateo, CA 94401",
+        "phone": "(650) 340-7000",
+        "website": "https://www.deansproducemarkets.com/deans-produce-san-mateo",
+        "description": "practice social distancing in stores, no reusable bags, 7 to 8am for seniors, ",
+        "storeid": 10
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2924665,
+          37.5291667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "8am to 8pm",
+        "seniorhours": "7am to 8am",
+        "name": "Mollie Stone's ",
+        "address": "49 42nd Ave, San Mateo, CA 94403",
+        "phone": "(650) 372-2828",
+        "website": "https://www.molliestones.com/",
+        "description": "",
+        "storeid": 11
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3385,
+          37.5199
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "8am to 8pm",
+        "seniorhours": "",
+        "name": "Crystal Springs Produce",
+        "address": "770 Polhemus Rd, San Mateo, CA 94402",
+        "phone": "(650)-393-5146",
+        "website": "http://www.crystalspringsproduce.com/",
+        "description": "",
+        "storeid": 12
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4609928,
+          37.6075158
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "9am to 8pm",
+        "seniorhours": "8am to 9am on Mon, Fri",
+        "name": "99 Ranch Market",
+        "address": "1070 Foster City Blvd, Foster City, CA 94404",
+        "phone": "(650) 358-8999",
+        "website": "https://www.99ranch.com/",
+        "description": "limiting store capacity to 50% at the time, dining areas closed",
+        "storeid": 13
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2732597,
+          37.54539
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "6am to 10pm",
+        "seniorhours": "6:00am - 9:00am on Tuesdays and Thursdays",
+        "name": "Lucky Supermarket",
+        "address": "919 Edgewater Blvd, Foster City, CA 94404",
+        "phone": "(650) 572-1167",
+        "website": "https://www.luckysupermarkets.com/",
+        "description": "",
+        "storeid": 14
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2932515,
+          37.5409374
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "M-F 10am to 9pm",
+        "seniorhours": "",
+        "name": "India Grocery and Spice",
+        "address": "218 E Hillsdale Blvd, San Mateo, CA 94403",
+        "phone": "(650) 376-3555",
+        "website": "http://www.indiagroceryandspice.com/",
+        "description": "",
+        "storeid": 15
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3404539,
+          37.5642874
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "8am to 8pm",
+        "seniorhours": "8am to 9am",
+        "name": "Burlingame Market",
+        "address": "1236 Broadway, Burlingame, CA",
+        "phone": "(650) 242-1011",
+        "website": "http://burlingamemarket.com/",
+        "description": "",
+        "storeid": 16
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3512974,
+          37.576821
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "8am to 8pm",
+        "seniorhours": "7-8am, Sat, Tues, Thrusday",
+        "name": "Mollie Stone's Markets",
+        "address": "1477 Chapin Ave, Burlingame, CA 94010",
+        "phone": "(650) 558-9992",
+        "website": "https://www.molliestones.com/",
+        "description": "",
+        "storeid": 17
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1451447,
+          37.4289553
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "8am to 8pm",
+        "seniorhours": "7-8am, Sat, Tues, Thrusday",
+        "name": "Mollie Stone's Markets",
+        "address": "164 S. California Ave, Palo Alto, CA",
+        "phone": "(650) 323-8361",
+        "website": "https://www.molliestones.com/",
+        "description": "",
+        "storeid": 18
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4288442,
+          37.5777151
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "8am to 8pm",
+        "seniorhours": "7-8am, Sat, Tues, Thrusday",
+        "name": "Mollie Stone's Markets",
+        "address": "22 Bayhill Shopping Center, San Bruno, CA",
+        "phone": "(650) 873-8075",
+        "website": "https://www.molliestones.com/",
+        "description": "",
+        "storeid": 19
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2924665,
+          37.5291709
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "8am to 8pm",
+        "seniorhours": "7-8am, Sat, Tues, Thrusday",
+        "name": "Mollie Stone's Markets",
+        "address": "49 West 42nd Ave, San Mateo, CA",
+        "phone": "(650) 372-2828",
+        "website": "https://www.molliestones.com/",
+        "description": "",
+        "storeid": 20
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3158625,
+          37.5532185
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "6am to 10pm",
+        "seniorhours": "6-9am, Tuesday and Thursday",
+        "name": "Safeway San Mateo",
+        "address": "1655 El Camino Real, San Mateo, CA",
+        "phone": "(650) 341-0374",
+        "website": "https://local.safeway.com/safeway/ca/san-mateo/1655-el-camino-real.html",
+        "description": "",
+        "storeid": 21
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3350127,
+          37.5803711
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "6am to 9pm",
+        "seniorhours": "6-9am, Tueday and Thursday",
+        "name": "Safeway Delaware St",
+        "address": "860 N Delaware St, San Mateo, CA 94401",
+        "phone": "(650) 347-2704",
+        "website": "https://local.safeway.com/safeway/ca/san-mateo/860-n-delaware-st.html",
+        "description": "",
+        "storeid": 22
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3504873,
+          37.576421
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "6am to 10pm ",
+        "seniorhours": "6-9am, Tuesday and Thursday",
+        "name": "Safeway Howard Ave",
+        "address": "1450 Howard Ave, Burlingame, CA 94010",
+        "phone": "(650) 343-3488",
+        "website": "https://local.safeway.com/safeway/ca/burlingame/1450-howard-ave.html?utm_source=G&utm_medium=Maps&utm_campaign=G+Places",
+        "description": "",
+        "storeid": 23
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3180263,
+          37.5812688
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "6am to 10pm",
+        "seniorhours": "6-9am, Tuesday and Thursday",
+        "name": "Safeway Foster City",
+        "address": "921 E Hillsdale Blvd, Foster City, CA 94404",
+        "phone": "(650) 377-0711",
+        "website": "https://local.safeway.com/safeway/ca/foster-city/921-e-hillsdale-blvd.html",
+        "description": "",
+        "storeid": 24
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3400227,
+          37.520815
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "6am to 9pm",
+        "seniorhours": "6-9am, Tuesday and Thursday",
+        "name": "Safeway De Anza Blvd",
+        "address": "100 De Anza Blvd, San Mateo, CA 94402",
+        "phone": "(650) 341-4039",
+        "website": "https://local.safeway.com/safeway/ca/san-mateo/100-de-anza-blvd.html",
+        "description": "",
+        "storeid": 25
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2975379,
+          37.5120771
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "6am to 9pm",
+        "seniorhours": "6-9am, Tuesday and Thursday",
+        "name": "Safeway Ralston Ave",
+        "address": "2100 Ralston Ave, Belmont, CA 94002",
+        "phone": "(650) 591-0235",
+        "website": "https://local.safeway.com/safeway/ca/belmont/2100-ralston-ave.html",
+        "description": "",
+        "storeid": 26
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2780812,
+          37.5186815
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "6am to 10pm ",
+        "seniorhours": "6-9am, Tuesday and Thursday",
+        "name": "Safeway Belmont",
+        "address": "1100 El Camino, Belmont, CA 94002",
+        "phone": "(650) 596-1730",
+        "website": "https://local.safeway.com/safeway/ca/belmont/1100-el-camino.html",
+        "description": "",
+        "storeid": 27
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3964018,
+          37.6033741
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "6am to 10pm ",
+        "seniorhours": "6-9am, Tuesday and Thursday",
+        "name": "Safeway Millbrae",
+        "address": "525 El Camino Real, Millbrae, CA 94030",
+        "phone": "(650) 652-3416",
+        "website": "https://local.safeway.com/safeway/ca/millbrae/525-el-camino-real.html",
+        "description": "",
+        "storeid": 28
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2389605,
+          37.48456
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "6am to 10pm ",
+        "seniorhours": "6-9am, Tuesday and Thursday",
+        "name": "Safeway Redwood City",
+        "address": "1071 El Camino Real,Redwood City, CA 94063",
+        "phone": "(650) 306-1900",
+        "website": "https://local.safeway.com/safeway/ca/redwood-city/1071-el-camino-real.html",
+        "description": "",
+        "storeid": 29
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4338119,
+          37.6555599
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "6am to 10pm ",
+        "seniorhours": "6-9am, Tuesday and Thursday",
+        "name": "Safeway South SF",
+        "address": "30 Chestnut Ave, South San Francisco, CA 94080",
+        "phone": "(650) 952-8867",
+        "website": "https://local.safeway.com/safeway/ca/south-san-francisco/30-chestnut-ave.html",
+        "description": "",
+        "storeid": 30
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2275684,
+          37.4656842
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "6am to 9pm",
+        "seniorhours": "6-9am, Tuesday and Thursday",
+        "name": "Safeway Woodside",
+        "address": "850 Woodside Rd,Redwood City, CA 94061",
+        "phone": "(650) 365-2522",
+        "website": "https://local.safeway.com/safeway/ca/redwood-city/850-woodside-rd.html",
+        "description": "",
+        "storeid": 31
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4383274,
+          37.4692744
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "6am to 9pm",
+        "seniorhours": "6-9am, Tuesday and Thursday",
+        "name": "Safeway Half Moon Bay",
+        "address": "70 Cabrillo Hwy,Half Moon Bay, CA 94019",
+        "phone": "(650) 726-1143",
+        "website": "https://local.safeway.com/safeway/ca/half-moon-bay/70-cabrillo-hwy.html",
+        "description": "",
+        "storeid": 32
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4542894,
+          37.6468142
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "6am to 10pm ",
+        "seniorhours": "6-9am, Tuesday and Thursday",
+        "name": "Safeway South SF",
+        "address": "2255 Gellert Blvd,South San Francisco, CA 94080",
+        "phone": "(650) 588-9005",
+        "website": "https://local.safeway.com/safeway/ca/south-san-francisco/2255-gellert-blvd.html",
+        "description": "",
+        "storeid": 33
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5051449,
+          37.5944502
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "6am to 10pm ",
+        "seniorhours": "6-9am, Tuesday and Thursday",
+        "name": "Safeway Pacifica",
+        "address": "1380 Linda Mar Shopping Center,Pacifica, CA 94044",
+        "phone": "(650) 359-6707",
+        "website": "https://local.safeway.com/safeway/ca/pacifica/1380-linda-mar-shopping-center.html",
+        "description": "",
+        "storeid": 34
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3133343,
+          37.5483756
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "10:30-5:30pm",
+        "seniorhours": "10:30am to 11:00am every day",
+        "name": "Nijiya Market San Mateo",
+        "address": "1956 S. El Camino Real,San Mateo, CA 94403",
+        "phone": "(650) 212-7398",
+        "website": "http://www.nijiya.com/store-location",
+        "description": "",
+        "storeid": 35
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2594025,
+          37.5535486
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "8am-8pm M-F, 9am-8pm S,S",
+        "seniorhours": "8-9am, Mon to Friday",
+        "name": "99 Ranch Market Foster City",
+        "address": "1070 Foster City Blvd, Foster City, CA 94404",
+        "phone": "(650) 358-8999",
+        "website": "https://www.99ranch.com/stores/foster-city",
+        "description": "",
+        "storeid": 36
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4904852,
+          37.6816753
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "8am-8pm M-F, 9am-8pm S,S",
+        "seniorhours": "8-9am, Mon to Friday",
+        "name": "99 Ranch Market Daly City",
+        "address": "250 Skyline Plaza,Daly City, CA 94015",
+        "phone": "(650) 992-8899",
+        "website": "https://www.99ranch.com/stores/daly-city",
+        "description": "",
+        "storeid": 37
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.304702,
+          37.5545382
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "9am to 7pm",
+        "seniorhours": "",
+        "name": "Trader Joe's San Mateo",
+        "address": "1820-22 S Grant St, San Mateo, CA 94402",
+        "phone": "(650) 570-6140",
+        "website": "https://locations.traderjoes.com/ca/san-mateo/67/",
+        "description": "",
+        "storeid": 38
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3004667,
+          37.535429
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "9am to 7pm",
+        "seniorhours": "8am to 9am ",
+        "name": "Trader Joe's Hillsdale",
+        "address": "45 W Hillsdale Blvd, San Mateo, CA 94403",
+        "phone": "(650) 286-1509",
+        "website": "https://locations.traderjoes.com/ca/san-mateo/245/",
+        "description": " closed sunday 4/12",
+        "storeid": 39
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3807155,
+          37.5776293
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "9am to 7pm",
+        "seniorhours": "8am to 9am ",
+        "name": "Trader Joe's Millbrae",
+        "address": "765 Broadway, Millbrae, CA 94030",
+        "phone": "(650) 259-9142",
+        "website": "https://locations.traderjoes.com/ca/millbrae/170/",
+        "description": " closed sunday 4/13",
+        "storeid": 40
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4811235,
+          37.664736
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "9am to 7pm",
+        "seniorhours": "8am to 9am ",
+        "name": "Trader Joe's SSF",
+        "address": "301 McLellan Drive, South San Francisco, CA 94080",
+        "phone": "(650) 583-6401",
+        "website": "https://locations.traderjoes.com/ca/south-san-francisco/187/",
+        "description": " closed sunday 4/14",
+        "storeid": 41
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4835379,
+          37.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "9am to 7pm",
+        "seniorhours": "8am to 9am ",
+        "name": "Trader Joe's Daly City",
+        "address": "417 Westlake Ctr, Daly City, CA 94015",
+        "phone": "(650) 755-3825",
+        "website": "https://locations.traderjoes.com/ca/daly-city/74/",
+        "description": " closed sunday 4/15",
+        "storeid": 42
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4844257,
+          37.7000041
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "9am to 7pm",
+        "seniorhours": "8am to 9am ",
+        "name": "Trader Joe's Stonestown",
+        "address": "265 Winston Dr, San Francisco, CA 94132",
+        "phone": "(415) 665-1835",
+        "website": "https://locations.traderjoes.com/ca/san-francisco/236/",
+        "description": " closed sunday 4/16",
+        "storeid": 43
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4095673,
+          37.7711099
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "9am to 7pm",
+        "seniorhours": "8am to 9am ",
+        "name": "Trader Joe's 9th St",
+        "address": "555 9th St, San Francisco, CA 94103",
+        "phone": "(415) 863-1292 ",
+        "website": "https://locations.traderjoes.com/ca/san-francisco/78/",
+        "description": " closed sunday 4/17",
+        "storeid": 44
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2536443,
+          37.7577242
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "9am to 7pm",
+        "seniorhours": "8am to 9am ",
+        "name": "Trader Joe's Alameda",
+        "address": "2217 South Shore Center, Alameda, CA 94501",
+        "phone": "(510) 769-5450",
+        "website": "https://locations.traderjoes.com/ca/alameda/109/",
+        "description": " closed sunday 4/18",
+        "storeid": 45
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4078561,
+          37.7853327
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "9am to 7pm",
+        "seniorhours": "8am to 9am ",
+        "name": "Trader Joe's Pacific Place",
+        "address": "10 4th Street,San Francisco, CA 94103",
+        "phone": "(415) 536-7801",
+        "website": "https://locations.traderjoes.com/ca/san-francisco/225/",
+        "description": " closed sunday 4/19",
+        "storeid": 46
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4201824,
+          37.7906451
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "9am to 7pm",
+        "seniorhours": "8am to 9am ",
+        "name": "Trader Joe's Nob Hill",
+        "address": "1095 Hyde St, San Francisco, CA 94109",
+        "phone": "(415) 292-7665",
+        "website": "https://locations.traderjoes.com/ca/san-francisco/200/",
+        "description": " closed sunday 4/20",
+        "storeid": 47
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4500626,
+          37.7833698
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "9am to 7pm",
+        "seniorhours": "8am to 9am ",
+        "name": "Trader Joe's Laurel Heights",
+        "address": "3 Masonic Ave, San Francisco, CA 94118",
+        "phone": "(415) 346-9964",
+        "website": "https://locations.traderjoes.com/ca/san-francisco/100/",
+        "description": " closed sunday 4/21",
+        "storeid": 48
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4159267,
+          37.8055155
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "9am to 7pm",
+        "seniorhours": "8am to 9am ",
+        "name": "Trader Joe's North Beach",
+        "address": "401 Bay St, San Francisco, CA 94133",
+        "phone": "(415) 351-1013",
+        "website": "https://locations.traderjoes.com/ca/san-francisco/19/",
+        "description": " closed sunday 4/22",
+        "storeid": 49
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2507597,
+          37.4963881
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "9am to 7pm",
+        "seniorhours": "8am to 9am ",
+        "name": "Trader Joe's San Carlos",
+        "address": "1482 El Camino Real, San Carlos, CA 94070",
+        "phone": "(650) 594-2138",
+        "website": "https://locations.traderjoes.com/ca/san-carlos/174/",
+        "description": " closed sunday 4/23",
+        "storeid": 50
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2539008,
+          37.8455601
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "9am to 7pm",
+        "seniorhours": "8am to 9am ",
+        "name": "Trader Joe's Oakland",
+        "address": "3250 Lakeshore Ave, Oakland, CA 94610",
+        "phone": "(510) 238-9076",
+        "website": "https://locations.traderjoes.com/ca/oakland/203/",
+        "description": " closed sunday 4/24",
+        "storeid": 51
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0751917,
+          37.6853639
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "9am to 7pm",
+        "seniorhours": "8am to 9am ",
+        "name": "Trader Joe's Castro Valley",
+        "address": "22224 Redwood Rd, Castro Valley, CA 94546",
+        "phone": "(510) 538-2738",
+        "website": "https://locations.traderjoes.com/ca/castro-valley/84/",
+        "description": " closed sunday 4/25",
+        "storeid": 52
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2964188,
+          37.8369813
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "9am to 7pm",
+        "seniorhours": "8am to 9am ",
+        "name": "Trader Joe's Emeryville",
+        "address": "5700 Christie Ave, Emeryville, CA 94608",
+        "phone": "(510) 658-8091",
+        "website": "https://locations.traderjoes.com/ca/emeryville/72/",
+        "description": " closed sunday 4/26",
+        "storeid": 53
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2514894,
+          37.8563871
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "9am to 7pm",
+        "seniorhours": "8am to 9am ",
+        "name": "Trader Joe's Oakland",
+        "address": "5727 College Ave, Oakland, CA 94618",
+        "phone": "(510) 923-9428",
+        "website": "https://locations.traderjoes.com/ca/oakland/231/",
+        "description": " closed sunday 4/27",
+        "storeid": 54
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2755017,
+          37.871926
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "9am to 7pm",
+        "seniorhours": "8am to 9am ",
+        "name": "Trader Joe's Berkeley",
+        "address": "1885 University Ave, Berkeley, CA 94703",
+        "phone": "(510) 204-9074",
+        "website": "https://locations.traderjoes.com/ca/berkeley/186/",
+        "description": " closed sunday 4/28",
+        "storeid": 55
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3229648,
+          37.5670281
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "11am to 3pm W-Sun",
+        "seniorhours": "",
+        "name": "Takahashi Market, San Mateo",
+        "address": "221 S Claremont St, San Mateo, CA 94401",
+        "phone": "(650) 343-0394",
+        "website": "https://takahashimarket.com/?page_id=10",
+        "description": "only 3 people at a time",
+        "storeid": 56
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.395597,
+          37.6020361
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "7am to 8pm",
+        "seniorhours": "",
+        "name": "Dean's Produce Millbrae",
+        "address": "451 Broadway,Millbrae, CA 94030",
+        "phone": "(650) 692-1042",
+        "website": "https://www.deansproducemarkets.com/millbrae",
+        "description": "",
+        "storeid": 57
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1618034,
+          37.4424095
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "9am to 8pm ",
+        "seniorhours": "8am to 9am ",
+        "name": "Whole Foods Palo Alto",
+        "address": "774 Emerson St, Palo Alto, CA 94301",
+        "phone": "(650) 326-8676",
+        "website": "https://www.wholefoodsmarket.com/stores/paloalto",
+        "description": "",
+        "storeid": 58
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2338085,
+          37.4822265
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "9am to 8pm ",
+        "seniorhours": "8am to 9am ",
+        "name": "Whole Foods Redwood",
+        "address": "1250 Jefferson Ave, Redwood City, CA 94062",
+        "phone": "(650) 367-1400",
+        "website": "https://www.wholefoodsmarket.com/stores/redwoodcity",
+        "description": "",
+        "storeid": 59
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.2743,
+          37.5618
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "M-F 10:00am - 6:30pm",
+        "seniorhours": "8am to 9am Tues. and Thurs",
+        "name": "Costco Foster City",
+        "address": "1001 Metro Center Blvd, Foster City, CA 94404",
+        "phone": "(650) 286-0739",
+        "website": "https://www.costco.com/warehouse-locations/foster-city-ca-147.html",
+        "description": "Costco will allow no more than two people to enter the warehouse with each membership card.",
+        "storeid": 60
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.218773,
+          37.4788612
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "10-6:30 M-F, 9:30-6:00 Sat, 10-6 Sun",
+        "seniorhours": "8am to 9am Tues. and Thurs",
+        "name": "Costco Redwood City",
+        "address": "2300 Middlefield Rd, Redwood City, CA 94063",
+        "phone": "(650) 568-4040",
+        "website": "",
+        "description": "",
+        "storeid": 61
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4949814,
+          37.7058586
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "10-6:30 M-F, 9:30-6:00 Sat, 10-6 Sun",
+        "seniorhours": "8am to 9am Tues. and Thurs",
+        "name": "Costco South SF",
+        "address": "451 S Airport Blvd, South San Francisco, CA",
+        "phone": "(650) 872-2021",
+        "website": "https://www.costco.com/warehouse-locations/s-san-francisco-south-san-francisco-ca-422.html",
+        "description": "",
+        "storeid": 62
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4857283,
+          37.6880076
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "10-6:30 M-F, 9:30-6:00 Sat, 9:00-6:00 Sun",
+        "seniorhours": "8am to 9am Tues. and Thurs",
+        "name": "Costco South SF",
+        "address": "1600 El Camino Real, South San Francisco, CA\n",
+        "phone": "(650) 757-3003",
+        "website": "https://www.costco.com/warehouse-locations/el-camino-south-san-francisco-ca-475.html",
+        "description": "",
+        "storeid": 63
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1874607,
+          37.4492362
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "9am to 7pm",
+        "seniorhours": "7am to 8am",
+        "name": "Draeger's Menlo Park",
+        "address": "1010 University Dr., Menlo Park, CA 94025",
+        "phone": "(650) 324-7700",
+        "website": "https://www.draegers.com/",
+        "description": "",
+        "storeid": 64
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1486216,
+          37.3704174
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "9am to 7pm",
+        "seniorhours": "7am to 8am ",
+        "name": "Draeger's Los Altos",
+        "address": "342 First Street,Los Altos, CA 94022",
+        "phone": "(650) 948-4425",
+        "website": "https://www.draegers.com/",
+        "description": "",
+        "storeid": 65
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4534184,
+          37.5631923
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "7:30am to 7pm",
+        "seniorhours": "7am to 8am on Tues. and Thurs",
+        "name": "Lunardi's Markets Burlingame",
+        "address": "1825 El Camino Real, Burlingame, CA 94010",
+        "phone": "(650) 697-5306",
+        "website": "https://www.lunardis.com/",
+        "description": "no reusable bags and 5% senior discount",
+        "storeid": 66
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4534184,
+          37.5631923
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "7:30am to 7pm",
+        "seniorhours": "7am to 8am on Tues. and Thurs",
+        "name": "Lunardi's Markets Belmont",
+        "address": "1085 Alameda de las Pulgas, Belmont, CA",
+        "phone": "(650) 591-5768",
+        "website": "https://www.lunardis.com/",
+        "description": "no reusable bags and 5% senior discount",
+        "storeid": 67
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4534184,
+          37.5631923
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "M-Sat 7:00am - 7:00pm, Sun 7:00am - 7:30pm",
+        "seniorhours": "7am to 8am on Tues. and Thurs",
+        "name": "Lunardi's Markets San Bruno",
+        "address": "2801 San Bruno Ave, San Bruno, CA",
+        "phone": "(650) 952-2851",
+        "website": "https://www.lunardis.com/",
+        "description": "no reusable bags and 5% senior discount",
+        "storeid": 68
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2867474,
+          37.5444422
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "8am to 8pm",
+        "seniorhours": "",
+        "name": "Marina Food Market San Mateo",
+        "address": "2992 S Norfolk St, San Mateo, CA 94403",
+        "phone": "(650) 345-6911",
+        "website": "",
+        "description": "",
+        "storeid": 69
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3913665,
+          37.5997451
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "M-S 10:30-4:15",
+        "seniorhours": "",
+        "name": "Sun's Market Millbrae",
+        "address": "131 El Camino Real, Millbrae, CA 94030",
+        "phone": "(650) 652-4881",
+        "website": "https://www.sunsmillbrae.com/-produce",
+        "description": "",
+        "storeid": 70
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4241678,
+          37.640123
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "6am to 10pm ",
+        "seniorhours": "6am to 9am, Tuesday and Thursday",
+        "name": "Lucky San Burno",
+        "address": "1322 El Camino Real, San Bruno, CA 94066",
+        "phone": "(650) 742-9733",
+        "website": "https://www.luckysupermarkets.com/keeping-you-safe",
+        "description": "",
+        "storeid": 71
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3897417,
+          37.5964092
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "6am to 10pm ",
+        "seniorhours": "6am to 9am, Tuesday and Thursday",
+        "name": "Lucky Millbare",
+        "address": "45 Murchison Dr, Millbrae, CA 94030",
+        "phone": "(650) 692-0429",
+        "website": "https://www.luckysupermarkets.com/keeping-you-safe",
+        "description": "",
+        "storeid": 72
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2514604,
+          37.5002445
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "6am to 10pm ",
+        "seniorhours": "6am to 9am, Tuesday and Thursday",
+        "name": "Lucky San Carlos",
+        "address": "1133 Old County Rd, San Carlos, CA 94070",
+        "phone": "(650) 637-1780",
+        "website": "https://www.luckysupermarkets.com/keeping-you-safe",
+        "description": "",
+        "storeid": 73
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2318067,
+          37.4565422
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "6am to 10pm ",
+        "seniorhours": "6am to 9am, Tuesday and Thursday",
+        "name": "Lucky Redwood City",
+        "address": "200 Woodside Plaza, Redwood City, CA 94061",
+        "phone": "(650) 369-8678",
+        "website": "https://www.luckysupermarkets.com/keeping-you-safe",
+        "description": "",
+        "storeid": 74
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46527,
+          37.6977846
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "6am to 10pm ",
+        "seniorhours": "6am to 9am, Tuesday and Thursday",
+        "name": "Lucky Daly City",
+        "address": "6843 Mission St, Daly City, CA 94014",
+        "phone": "(650) 992-6260",
+        "website": "https://www.luckysupermarkets.com/keeping-you-safe",
+        "description": "",
+        "storeid": 75
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3125109,
+          37.5712275
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "8am to 9pm",
+        "seniorhours": "7am to 8am",
+        "name": "Chavez Supermarket San Mateo",
+        "address": "500 S Norfolk St, San Mateo, CA 94401",
+        "phone": "(650) 781-3950",
+        "website": "https://www.chavezsuper.com/",
+        "description": "",
+        "storeid": 76
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3119109,
+          37.5705598
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "7am to 9pm",
+        "seniorhours": "",
+        "name": "Market Fiesta Latina",
+        "address": "1424 Cary Ave, San Mateo, CA 94401",
+        "phone": "(650) 343-0193",
+        "website": "",
+        "description": "",
+        "storeid": 77
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.320539,
+          37.576115
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "7am to 8pm",
+        "seniorhours": "",
+        "name": "La Hacienda Market San Mateo",
+        "address": " 201 Namphlett Blvd, San Mateo, CA 94401",
+        "phone": "(650) 343-6095",
+        "website": "https://www.lahaciendamarkets.com/",
+        "description": "",
+        "storeid": 78
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.408655,
+          37.663081
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "7am to 8pm",
+        "seniorhours": "",
+        "name": "La Hachienda Market SSF",
+        "address": "249 Hillside Blvd, South San Francisco, CA 94080",
+        "phone": "(650) 583-8850",
+        "website": "https://www.lahaciendamarkets.com/",
+        "description": "",
+        "storeid": 79
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3107304,
+          37.5433153
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "8am to 8pm",
+        "seniorhours": "",
+        "name": "San Mateo Produce Market",
+        "address": "175 W 25th Ave, San Mateo, CA 94403",
+        "phone": "(650) 286-9064",
+        "website": "",
+        "description": "",
+        "storeid": 80
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2537069,
+          37.5231136
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "6am to 11pm",
+        "seniorhours": "",
+        "name": "Nob Hill Foods",
+        "address": "270 Redwood Shores Pkwy, Redwood City, CA 94065",
+        "phone": "(650) 654-2106",
+        "website": "https://www.raleys.com/store-locator/?search=94402&distance=50",
+        "description": "",
+        "storeid": 81
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3124277,
+          37.5571742
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "7am to 9pm",
+        "seniorhours": "",
+        "name": "La Morenita Market",
+        "address": "1519 S Claremont St, San Mateo, CA 94402",
+        "phone": "(650) 286-1914",
+        "website": "",
+        "description": "",
+        "storeid": 82
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2683292,
+          37.5122257
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "10am to 7pm",
+        "seniorhours": "",
+        "name": "Adel Food Market",
+        "address": "171 El Camino Real, San Carlos, CA 94070",
+        "phone": "(650) 654-3340",
+        "website": "",
+        "description": "",
+        "storeid": 83
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2644006,
+          37.500208
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "10am to 7pm",
+        "seniorhours": "9am to 10am",
+        "name": "Bianchini's Market",
+        "address": "810 Laurel St, San Carlos, CA 94070",
+        "phone": "(650) 592-4701",
+        "website": "http://bianchinismarket.com/",
+        "description": "",
+        "storeid": 84
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2387393,
+          37.4811174
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "8am to 8pm",
+        "seniorhours": "",
+        "name": "Grocery Outlet",
+        "address": "1833 Broadway, Redwood City, CA 94063",
+        "phone": "(650) 364-7406",
+        "website": "https://groceryoutlet.com/circulars/storeid/4",
+        "description": "",
+        "storeid": 85
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2600044,
+          37.4865044
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "8am to 7pm",
+        "seniorhours": "",
+        "name": "Mi Rancho Supermarket",
+        "address": "137 Roosevelt Ave, Redwood City, CA 94061",
+        "phone": "(650) 780-9410",
+        "website": "http://www.miranchosupermarket.com/",
+        "description": "",
+        "storeid": 86
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3416651,
+          37.5227686
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "8am to 7pm",
+        "seniorhours": "",
+        "name": "Mi Rancho Supermarket",
+        "address": "150 Charter St., Redwood City, CA 94063",
+        "phone": "(650) 780-0330",
+        "website": "http://www.miranchosupermarket.com/",
+        "description": "",
+        "storeid": 87
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4658082,
+          37.6433941
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "8am to 9pm",
+        "seniorhours": "",
+        "name": "Seafood City Supermarket",
+        "address": "3573 Callan Blvd, South San Francisco, CA 94080",
+        "phone": "(650) 243 6100",
+        "website": "http://www.seafoodcity.com/",
+        "description": "",
+        "storeid": 88
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4454777,
+          37.639181
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "9am to 8pm",
+        "seniorhours": "8am to 9am Tue and Fri",
+        "name": "Pacific Supermarket SSF",
+        "address": "2228 Westborough Blvd, South San Francisco, CA 94080",
+        "phone": "(650) 583-1388",
+        "website": "http://www.pacificsupermarket.com/",
+        "description": "",
+        "storeid": 89
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4375448,
+          37.6549152
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "9am to 7pm",
+        "seniorhours": "8am to 9am Wed and Sat",
+        "name": "Pacific Supermarket S SF",
+        "address": "1015 El Camino Real,South San Francisco, CA 94080",
+        "phone": "(650) 616-1918",
+        "website": "http://www.pacificsupermarket.com/",
+        "description": "",
+        "storeid": 90
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4810663,
+          37.6751423
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "9am to 7pm",
+        "seniorhours": "8am to 9am Mon and Thurs",
+        "name": "Pacific Supermarket Daly City",
+        "address": "1420 Southgate Avenue,Daly City, CA 94015",
+        "phone": "(650) 994-1688",
+        "website": "http://www.pacificsupermarket.com/",
+        "description": "",
+        "storeid": 91
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4899521,
+          37.6329118
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "8am to 8pm",
+        "seniorhours": "7am to 8am",
+        "name": "Oceana Market",
+        "address": "200 Eureka Dr, Pacifica, CA 94044",
+        "phone": "(650) 359-8181",
+        "website": "http://www.oceanamarket.com/",
+        "description": "",
+        "storeid": 92
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4765323,
+          37.6417294
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "9am to 7pm",
+        "seniorhours": "8am to 9am",
+        "name": "Manila Oriental Market",
+        "address": "950 King Dr #112, Daly City, CA 94015",
+        "phone": "(650) 878-3328",
+        "website": "",
+        "description": "",
+        "storeid": 93
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4617033,
+          37.6466644
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "7am to 8pm",
+        "seniorhours": "",
+        "name": "Sprouts Farmers Market",
+        "address": "301 Gellert Blvd, Daly City, CA 94015",
+        "phone": "(415) 325-1091",
+        "website": "https://www.sprouts.com/store/ca/daly-city/daly-city/",
+        "description": "50 people max in the store",
+        "storeid": 94
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4454971,
+          37.6650519
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "9am to 7pm",
+        "seniorhours": "8am to 9am",
+        "name": "Grocery Outlet Bargain Market",
+        "address": "125 Hickey Blvd, South San Francisco, CA 94080\n",
+        "phone": "(650) 550-1100",
+        "website": "https://groceryoutlet.com/circulars/storeid/139",
+        "description": "",
+        "storeid": 95
+      }
+    }
+  ]
 }
